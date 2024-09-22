@@ -39,7 +39,7 @@ const HeroSlider = () => {
                       <h1 className="tst-white-2 tst-text-shadow tst-mb-30" dangerouslySetInnerHTML={{__html : item.title}}  />
                       <div className="tst-text tst-text-shadow tst-text-lg tst-white-2 tst-mb-30" dangerouslySetInnerHTML={{__html : item.text}}  />
                       <Link href={item.button1.link} className="tst-btn tst-btn-lg tst-btn-shadow tst-res-btn tst-mr-30">{item.button1.label}</Link>
-                      <Link href={item.button2.link} className="tst-label tst-white-2">{item.button2.label}</Link>
+                      <Link href={item.button2.link} className="tst-label tst-white-2" target="_blank" rel="noopener noreferrer">{item.button2.label}</Link>
                     </div>
                   </div>
                 </div>

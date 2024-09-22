@@ -1,8 +1,8 @@
 {
     "items": [
         {
-            "title": "Welcome Back <br>to Tastycs",
-            "subtitle": "Hello, new friend!",
+            "title": "Welcome to<br> Wakatobi Fresh Fish",
+            "subtitle": "Hello, buyer!",
             "image": {
                 "url": "/img/banners/banner-1.jpg",
                 "alt": "cover"
@@ -10,16 +10,16 @@
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
             "button1": {
                 "link": "/reservation",
-                "label": "Reservation"
+                "label": "Products"
             },
             "button2": {
-                "link": "/menu",
-                "label": "Open Menu"
+                "link": "https://wa.me/+6285232938733",
+                "label": "Contact Us"
             }
         },
         {
-            "title": "Reserve Your <br>Table Today",
-            "subtitle": "Hello, new friend!",
+            "title": "Welcome to<br> Wakatobi Fresh Fish",
+            "subtitle": "Hello, buyer!",
             "image": {
                 "url": "/img/banners/banner-2.jpg",
                 "alt": "cover"
@@ -27,16 +27,16 @@
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
             "button1": {
                 "link": "/reservation-2",
-                "label": "Table Order"
+                "label": "Products"
             },
             "button2": {
-                "link": "/shop",
-                "label": "Online shop"
+                "link": "https://wa.me/+6285232938733",
+                "label": "Contact Us"
             }
         },
         {
-            "title": "Visit to Our<br>Online Shop",
-            "subtitle": "Hello, new friend!",
+            "title": "Welcome to<br> Wakatobi Fresh Fish",
+            "subtitle": "Hello, buyer!",
             "image": {
                 "url": "/img/banners/banner-3.jpg",
                 "alt": "cover"
@@ -44,11 +44,11 @@
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
             "button1": {
                 "link": "/contact",
-                "label": "Find Us"
+                "label": "Products"
             },
             "button2": {
-                "link": "/menu-2",
-                "label": "Open Menu"
+                "link": "https://wa.me/+6285232938733",
+                "label": "Contact Us"
             }
         }
     ]
