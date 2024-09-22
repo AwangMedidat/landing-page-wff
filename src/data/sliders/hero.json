@@ -4,7 +4,7 @@
             "title": "Welcome to<br> Wakatobi Fresh Fish",
             "subtitle": "Hello, buyer!",
             "image": {
-                "url": "/img/banners/banner-1.jpg",
+                "url": "/img/banners/bg-1.jpg",
                 "alt": "cover"
             },
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
@@ -21,7 +21,7 @@
             "title": "Welcome to<br> Wakatobi Fresh Fish",
             "subtitle": "Hello, buyer!",
             "image": {
-                "url": "/img/banners/banner-2.jpg",
+                "url": "/img/banners/bg-2.jpg",
                 "alt": "cover"
             },
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
@@ -38,7 +38,7 @@
             "title": "Welcome to<br> Wakatobi Fresh Fish",
             "subtitle": "Hello, buyer!",
             "image": {
-                "url": "/img/banners/banner-3.jpg",
+                "url": "/img/banners/bg-3.jpg",
                 "alt": "cover"
             },
             "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
